@@ -7,6 +7,7 @@ This Python script is designed to extract consecutive data from CSV files and to
 To run this script, you need the following:
 - Python 3.x installed on your system
 - Python libraries: pandas, numpy
+- scrypt py must be in root directory
 
 ## Usage
 1. Clone or download this repository to your computer.
